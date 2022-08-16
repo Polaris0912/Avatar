@@ -7,19 +7,47 @@ body{
 
 
 h1{
-    color: antiquewhite;
+    color: rgb(245, 245, 245);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: fixed;
+    /*position: fixed;*/
+    text-align: center;
+    font-size: 2cm
 
     /*align-items: center;*/
 
 }
 
-.header__superior{
+h2{
+    color: rgb(113, 252, 252);
+    text-align: ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1cm;
+    margin-left: 1.5cm;
+    
+}
+
+h3{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+}
+
+
+#header{
     width: 100%;
+    height: 30px
     margin-top: ;
 }
 
 div{
     align-items: center;
+}
+
+#avatars{
+    background: #171e24;
+    width: auto;
+    margin: 0 auto;
+    margin-left: 60px;
+    margin-right: 50px;
 }
