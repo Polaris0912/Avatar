@@ -1,16 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:ital,wght@0,100;1,100&display=swap');
 
 
+
 body{
     background-color: #171e24;
 }
 
-h1{
-    color: #2CFFB9;
-    
-}
 
-h2{
+h1{
     color: rgb(245, 245, 245);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     /*position: fixed;*/
@@ -21,7 +18,7 @@ h2{
 
 }
 
-h3{
+h2{
     color: rgb(113, 252, 252);
     text-align: ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -30,7 +27,12 @@ h3{
     
 }
 
+h3{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 
+}
 
 
 #header{
