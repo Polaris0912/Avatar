@@ -5,8 +5,12 @@ body{
     background-color: #171e24;
 }
 
-
 h1{
+    color: #2CFFB9;
+    
+}
+
+h2{
     color: rgb(245, 245, 245);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     /*position: fixed;*/
@@ -17,7 +21,7 @@ h1{
 
 }
 
-h2{
+h3{
     color: rgb(113, 252, 252);
     text-align: ;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -26,12 +30,7 @@ h2{
     
 }
 
-h3{
-    color: aliceblue;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
 
-}
 
 
 #header{
